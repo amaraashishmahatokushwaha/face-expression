@@ -20,6 +20,5 @@ This project uses your webcam to detect faces in real-time and analyze emotions 
 
 git clone https://github.com/amaraashishmahatokushwaha/face-expression.git
 
-cd mood-detector
-
-and run python3 run.py
+and run 
+python3 run.py
